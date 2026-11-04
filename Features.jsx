@@ -31,7 +31,7 @@ export default function Features() {
               <div className="col-md-6" data-aos="fade-up" data-aos-delay="300">
                 <div className="feature-box d-flex align-items-center">
                   <i className="bi bi-check"></i>
-                  <h3>Facilis neque ipsa</h3>
+                  <h3>Facilis neque ipsa.</h3>
                 </div>
               </div>
               <div className="col-md-6" data-aos="fade-up" data-aos-delay="400">
@@ -41,7 +41,7 @@ export default function Features() {
                 </div>
               </div>
 
-              <div className="col-md-6" data-aos="fade-up" data-aos-delay="500">
+              <div className="col-md-6" data-aos="fade-up" data-aos-delay="510">
                 <div className="feature-box d-flex align-items-center">
                   <i className="bi bi-check"></i>
                   <h3>Rerum omnis sint</h3>
